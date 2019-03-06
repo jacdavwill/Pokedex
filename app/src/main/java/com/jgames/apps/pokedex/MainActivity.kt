@@ -80,7 +80,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    //returns app to the initial screen
+    //returns app to the opening screen
     fun displayPokedexPage(view: View) {
         setContentView(R.layout.activity_main)
         pokeDataAdapter?.clear()
