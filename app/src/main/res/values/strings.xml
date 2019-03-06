@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="return_button">Return to pokedex</string>
+    <string name="poke_type_prim_header">Primary Type</string>
+    <string name="poke_type_sec_header">Secondary Type</string>
+    <string name="poke_height_header">Height</string>
+    <string name="poke_weight_header">Weight</string>
+    <string name="poke_height_str">%1$d m</string>
+    <string name="poke_weight_str">%1$d kg</string>
+    <string name="pokeImage_desc">The image of the pokemon</string>
+</resources>
